@@ -1,4 +1,4 @@
-/*
+
 const cartQuantity  = document.getElementById("cartQuantity");
 
 function button() {
@@ -23,6 +23,6 @@ else if (34 < 23){
    console.log ("Wir werden da sein");
 
 }
-/*
+
 
 
