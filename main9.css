@@ -1,0 +1,265 @@
+body{
+background-color:rgba(0, 0, 0, 0.13); 
+}
+bdo{
+  font-size: 30px;
+  font-family: arial,italic;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color:grey;
+}
+.example-bdo{
+  color: rgba(0, 0, 0, 0.664);
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.ol-bothle{
+  color: #4D4D4D;
+  margin-top:px ;
+  margin-bottom: 10px;
+  vertical-align: 4px;
+  font-size: 20px;
+  margin-bottom: 20px;
+  line-height: 25px;
+}
+.ol-Seeds{
+  font-family: arial;
+  font-size: 20px;
+  color:#4d4d4dbb;
+  
+  margin-top:20px;
+  
+  
+}
+P{
+  font-size: 22px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  vertical-align: top;
+color: #4D4D4D;
+line-height: 30px;
+}
+.button-email{
+  margin-top: 1000px;
+  background-color:rgba(0, 0, 0, 0.274) ;
+  border: none;
+border-radius: 20px;
+margin:10px;
+box-shadow: 10px 10px 10px fuchsia;
+padding-right:25px;
+  padding-left:25px;
+  padding-bottom:12px;
+  padding-top:12px;
+   color: white;
+
+}
+.button-tel{
+ margin-top: 1000px;
+ background-color: rgb(162, 0, 255);
+ border-radius: 20px; 
+  color: white;
+ margin:130px;
+ padding-right:20px;
+  padding-left:20px;
+  padding-bottom:12px;
+  padding-top:12px;
+}
+.button-facebook{
+  margin-top: 700px;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  margin:130px;
+  padding-right:20px;
+  padding-left:20px;
+  padding-bottom:12px;
+  padding-top:12px;
+}
+.button-youtube{
+  margin-top: 1000px;
+  background-color: green;
+  border-radius:5px;
+  border: none;
+  margin:0;
+  padding-right:25px;
+  padding-left:25px;
+  padding-bottom:12px;
+  padding-top:12px;
+  box-shadow: 10px 10px 10px red;
+  transition: 0.7s;
+  color: white;
+}
+
+h1{
+  display:flex;
+  background-color: rgb(17, 39, 56);
+  text-align: center;
+  font-size: 2rem;
+  display:grid;
+  color:white;
+  border-radius:15px;
+  box-sizing:70vh;
+  margin:0;
+  box-shadow: 10px 10px 10px rgb(112, 216, 159);
+}
+.button-h1{
+  color: white;
+  text-align: center;
+ text-align: left; 
+ background-color: rgb(41, 118, 248);
+ border: none;
+ padding-top: 10px;
+ padding-right: 10px;
+ padding-left: 10px;
+ padding-bottom: 10px;
+border-radius:8px;
+box-shadow:10px 10px  10px 10px black;
+transition: 0.7s;
+ 
+}
+.button-buynow{
+  background-color: rgb(41, 118, 248); 
+  border: none;
+ padding-top: 10px;
+ padding-right: 14px;
+ padding-left: 14px;
+ padding-bottom: 10px;
+border-radius:8px;
+color: white;
+box-shadow:10px 10px  10px 10px black;
+transition: 0.7s;
+}
+.span-paypal{
+  margin:390px;
+ cursor: pointer;
+  font-size: 1.5em;
+  padding-bottom: 20px;
+  padding-top: 20px;
+ 
+}
+.button-subcribe{
+  background-color: rgb(200, 0, 0);
+  border: none;
+  margin: left;
+  margin: 8px;
+  border-radius: solid;
+  border-width: 1px;
+  color:white;
+  cursor: pointer;
+  transition: opacity 1s, color 1s;
+  padding-right:25px;
+  padding-left:25px;
+  padding-bottom:12px;
+  padding-top:12px;
+  box-shadow: 10px 10px 10px yellow;
+
+}
+.join-button{
+background-color:white;
+  border-color: rgb(41, 118, 211);
+  margin: 8px;
+  border-style:solid;
+  color: rgb(41, 118, 211);
+  margin: 40px;
+  border-radius: 2px;
+  padding-right:20px;
+  padding-left:20px;
+  padding-bottom: 8px;
+  padding-top:8px;
+  opacity:  0.7;
+  box-shadow: 10px 10px 10px rgb(128, 0, 70);
+
+}
+.button-h1:hover{
+ background-color:  rgba(0, 0, 0, 0.596);
+}
+.button-h1:hover:active{
+  opacity:0.7, 10px  10px  10px  10px;
+}
+
+.button-buynow:hover{
+background-color: rgba(0, 0, 0, 0.596);
+
+}
+
+.button-h1:hover:active{
+  opacity:0.7, 10px  10px  10px  10px;
+}
+
+.button-tel:hover{
+  background-color:rgb(9, 9, 209);
+}
+.tweet-button{
+  background-color: rgb(2, 158, 255);
+  color: white;
+  border-radius: 15px;
+  border: none;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+   padding-right:20px;
+  padding-left:20px;
+  padding-bottom: 8px;
+  padding-top:8px;
+  margin: 40px;
+  transition:0.7s ,color,green;
+
+box-shadow: 10px 10px 10px black;
+transition: 0.7s;
+
+}
+a{
+  display: flex;
+justify-content: end;
+vertical-align: top;
+margin: 0py;
+}
+ul{
+  color:red;
+  text-align: center;
+  border: none; 
+  font-size:1.4rem ;
+  border-radius: 10px;
+  box-shadow: 12px 12px 12px #4D4D4D;
+  margin:0px;
+  font-family:italic;
+}
+.button-email:hover{
+  background-color: green;
+}
+.button-youtube:hover{
+background-color:yellow;
+transition: 0.7s;
+}
+.button-facebook:hover{
+  background-color: blue;
+}
+
+.button-1:hover{
+background-color: rgb(2, 141, 255);
+transition: opacity 1s, color 1s
+}
+
+.button-1:hover:active{
+background-color: rgb(255, 2, 2);
+ opacity:0.7 10px 10px 10px ;
+ 
+}
+
+.join-button:hover{
+  background-color: rgb(37, 187, 24);
+  transition:opacity 1s,color; 
+}
+.join-button:hover:active{
+  background-color: rgb(160, 24, 187);
+ opacity:0.7 10px 10px 10px ;
+  
+}
+.tweet-button:hover{
+  background-color:#4D4D4D;
+  transition:opacity 1s, color 1s;
+}
+.tweet-button:active{
+  background-color:#C1C1;
+  opacity: 0.7s 10px 10px 10px 10px;
+}
