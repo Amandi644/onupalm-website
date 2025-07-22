@@ -9,7 +9,7 @@ button();
 button();
 
 let joinThem = "";
-for(i = 0; i < 15; ++i){
+for(i = 0; i < 0; ++i){
 console.log(i);
 alert(i,"Were is he coming from");
 }
